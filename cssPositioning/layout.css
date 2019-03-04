@@ -16,7 +16,14 @@ body {
 #container {
     width: 960px;
     margin: 0 auto;
-    background-color: white;
+    background-color: rgb(207, 202, 202);
+    padding: 15px;
+}
+
+#ad {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(3, 58, 6);
     padding: 15px;
 }
 
@@ -35,7 +42,7 @@ aside {
     width: 30%;
     padding: 0 1em;
     margin-bottom:1em;
-    height: 500px;
+    height: 490px;
 }
 
 article {

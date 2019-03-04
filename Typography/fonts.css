@@ -1,0 +1,17 @@
+
+
+h1 { 
+    font-family: "Georgia"; 
+    }
+
+p { 
+    font-family: "Georgia"; 
+    font-size: 12;
+    }
+
+p, blockquote { 
+    font-family: “papyrus”; 
+    font-size: 12; 
+    } 
+
+body {width: 12;}
