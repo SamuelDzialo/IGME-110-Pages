@@ -12,3 +12,10 @@ p {
     font-style: normal;
     font-size: 30px;
     }
+
+p { 
+    font-family: “Times”; 
+    font-size: 15px; 
+    }
+
+body { width: 20px; }
